@@ -1,0 +1,8 @@
+Messages:
+  NoCommandArgs: "&cGebruik alleen /job of /baan!"
+  VerkeerdeBaan: "&cOeps! Je kunt kiezen uit: Miner, Visser, Boer of Houthakker"
+  BaanIngesteld: "&2<Player> &cheeft nu de baan &2<Baan>&c!"
+  Betalen: "&cJe hebt al een rang ingesteld! Je moet nu €<Bedrag> betalen! Wil je betalen? Doe dan opnieuw /baan of /job. Annuleren? Typ dan STOP"
+  BetalenMislukt: "&cOeps! Het is niet gelukt te betalen! Waarschijnlijk heb je te weinig geld!"
+  NietInGebied: "&cOeps! Je kunt hier niet hakken/vissen/farmen/minen!"
+  PlayerDoesntExists: "&cOeps! De speler <Player> is niet online of bestaat niet!"

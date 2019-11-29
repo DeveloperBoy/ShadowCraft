@@ -1,0 +1,33 @@
+Settings:
+  MessagePrefix: "&f[&6ShadowCraftWorking&f]"
+  MenuName: "&6ShadowCraftGUI"
+  JobCommandCost: 1000
+  
+  MinerItem:
+    Material: "IRON_PICKAXE"
+    Data: 0
+    Name: "&6Miner"
+    Lores:
+    - "Wordt een echte miner"
+    - "en hak erop los!"
+  VisserItem:
+    Material: "FISHING_ROD"
+    Data: 0
+    Name: "&6Visser"
+    Lores:
+    - "Wordt een echte visser"
+    - "en visser erop los!"
+  BoerItem:
+    Material: "IRON_HOE"
+    Data: 0
+    Name: "&6Boer"
+    Lores:
+    - "Wordt een echte boer"
+    - "en farm erop los!"
+  HouthakkerItem:
+    Material: "IRON_AXE"
+    Data: 0
+    Name: "&6Houthakker"
+    Lores:
+    - "Wordt een echte houthakker"
+    - "en hak erop los!"

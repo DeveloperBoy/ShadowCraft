@@ -1,0 +1,18 @@
+name: ShadowCraftWorking
+main: nl.ThorbenBP.ShadowCraftWorking.Main
+version: 1.0
+description: Plugin request door Paul52GamesYT, gemaakt door DeveloperBoy - ThorbenBP!
+author: DeveloperBoy
+depend: [WorldEdit, WorldGuard, Vault]
+    
+commands:
+  job:
+    description: Open het Job Menu!
+    aliases: [baan]
+  setjob:
+    description: Stel de job in!
+    aliases: [setbaan]
+permissions:
+  scw.setjob:
+    description: Setjob permission
+    default: op
